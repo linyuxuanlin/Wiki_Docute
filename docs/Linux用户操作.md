@@ -1,7 +1,4 @@
----
-id: Linux用户操作
 title: Linux 用户操作
----
 
 ## 基本操作
 

@@ -1,7 +1,4 @@
----
-id: CentOS安装Docker
 title: CentOS 安装 Docker
----
 
 ## 卸载可能存在的旧版本
 

@@ -1,7 +1,4 @@
----
-id: Python学习笔记
 title: Python 学习笔记
----
 
 ## 环境配置
 

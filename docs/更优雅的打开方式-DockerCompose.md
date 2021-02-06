@@ -1,7 +1,4 @@
----
-id: DockerCompose-更优雅的打开方式
 title: Docker Compose - 更优雅的打开方式
----
 
 ![](https://wiki-media-1253965369.cos.ap-guangzhou.myqcloud.com/img/20210117130925.jpg)
 

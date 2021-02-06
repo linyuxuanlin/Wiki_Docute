@@ -1,7 +1,4 @@
----
-id: AD入门系列三：原理图绘制
 title: AD 入门系列三：原理图绘制
----
 
 
 —— Altium Designer 系列教程

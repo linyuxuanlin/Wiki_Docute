@@ -1,7 +1,4 @@
----
-id: 把回忆放心交给GooglePhotos
 title: 把回忆放心交给 Google Photos
----
 
 ## 背景
 

@@ -1,7 +1,4 @@
----
-id: AD入门系列五：库文件绘制
 title: AD 入门系列五：库文件绘制
----
 
 —— Altium Designer 系列教程
 

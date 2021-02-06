@@ -1,7 +1,4 @@
----
-id: T-Clock桌上小钟（旧）
 title: T-Clock 桌上小钟（旧）
----
 
 ## 背景
 

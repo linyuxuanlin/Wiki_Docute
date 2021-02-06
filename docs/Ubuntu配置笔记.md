@@ -1,7 +1,4 @@
----
-id: Ubuntu配置笔记
 title: Ubuntu 配置笔记
----
 
 【施工中】
 

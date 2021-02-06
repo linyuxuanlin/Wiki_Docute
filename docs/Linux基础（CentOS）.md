@@ -1,7 +1,4 @@
----
-id: Linux基础（CentOS）
 title: Linux 基础（CentOS）
----
 
 —— 记录所学知识。
 

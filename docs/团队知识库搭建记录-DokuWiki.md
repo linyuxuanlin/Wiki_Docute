@@ -1,7 +1,4 @@
----
-id: 团队知识库搭建记录-DokuWiki
 title: 团队知识库搭建记录 - DokuWiki
----
 
 ## 参考与致谢
 

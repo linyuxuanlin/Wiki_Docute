@@ -1,7 +1,4 @@
----
-id: BookJourney-二手书商城小程序
 title: BookJourney - 二手书商城小程序
----
 
 ## 成品
 

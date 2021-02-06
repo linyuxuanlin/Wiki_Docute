@@ -1,7 +1,4 @@
----
-id: 浅谈Bitcron博客平台
 title: 浅谈 Bitcron 博客平台
----
 
 ## 背景
 

@@ -1,7 +1,4 @@
----
-id: Docker方式运行code-server
 title: Docker 方式运行 code-server
----
 
 ## 准备
 
@@ -12,7 +9,6 @@ title: Docker 方式运行 code-server
 如果不熟悉 Docker Compose, 请详细阅读 [**Docker Compose - 更优雅的打开方式**](https://wiki-power.com/DockerCompose-%E6%9B%B4%E4%BC%98%E9%9B%85%E7%9A%84%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F) 这篇文章。
 
 ```yaml
----
 version: "2.1"
 services:
   code-server:

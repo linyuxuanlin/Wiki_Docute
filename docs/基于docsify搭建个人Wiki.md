@@ -1,7 +1,4 @@
----
-id: 基于docsify搭建个人Wiki
 title: 基于 docsify 搭建个人 Wiki
----
 
 
 ## 背景
