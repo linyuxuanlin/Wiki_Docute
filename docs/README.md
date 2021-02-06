@@ -18,6 +18,6 @@ Hi there~
 [![GitHub last commit](https://img.shields.io/github/last-commit/linyuxuanlin/Wiki_Docusaurus?color=FCD734&label=Last%20commit&style=flat-square)](https://github.com/linyuxuanlin/Wiki_Docusaurus/commits/main)
 [![contact](https://img.shields.io/badge/Contact%20me-here-34ABE0?&style=flat-square)](ContactMe)
 
-<h6>Power Lin |  <a href="https://beian.miit.gov.cn"> 粤 ICP 备 20014898 号 </a> | Built with Docusaurus</h6>
+<h5>Power Lin |  <a href="https://beian.miit.gov.cn"> 粤 ICP 备 20014898 号 </a> | Built with Docute</h5>
 
 https://cdn.jsdelivr.net/gh/linyuxuanlin/Wiki_Docute

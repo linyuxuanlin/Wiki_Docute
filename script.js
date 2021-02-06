@@ -1,8 +1,34 @@
 /* globals Docute*/
 
+
+
 new Docute({
   target: '#docute',
   sourcePath: './docs/',
+  title: 'Power\'s Wiki',
+  editLinkBase: 'https://github.com/linyuxuanlin/Wiki_Docute/blob/master/docs',
+  editLinkText: '编辑此页面',
+  highlight: ['c', 'go', 'graphql'],
+  detectSystemDarkTheme: true,
+  darkThemeToggler: true,
+  layout: 'narrow',
+  router: { mode: 'history' },
+  imageZoom: true,
+  //banner: `Please <a href="https://donate.com/link">donate</a> <ExternalLinkIcon /> to support this project!`,
+  //footer: `<hr>Power Lin |  <a href="https://beian.miit.gov.cn"> 粤 ICP 备 20014898 号 </a> | Built with Docute <br> 本站使用 <a href="https://creativecommons.org/licenses/by/4.0/deed.zh"><b>CC BY-NC-SA 4.0</b></a> 协议，转载请注明出处`,
+
+  //logo: 'https://cos.ap-guangzhou.myqcloud.com/wiki-media-1253965369/doc/logo-zip.png',
+
+
+
+  /* 侧边栏宽度
+  cssVariables: {
+    sidebarWidth: '300px'
+  },
+  */
+
+ 
+
   nav: [
     {
       title: 'Home',
@@ -15,11 +41,11 @@ new Docute({
     }
     
   ],
-  sidebar: [
-    {title: 'Home', link: '/',},
+  sidebar: 
+  [
+    {title: 'Home', link: '/', },
     {
       title: '电路设计',
-      
       links: [
         {title: 'AirForce-充满灵性的电机驱动模块', link: 'AirForce-充满灵性的电机驱动模块',},
         {title: '如何设计一款单片机的最小系统', link: '如何设计一款单片机的最小系统',},
