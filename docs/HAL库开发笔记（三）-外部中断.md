@@ -1,10 +1,8 @@
-
-# HAL库开发笔记（三）-外部中断
+# HAL 库开发笔记（三）- 外部中断
 
 上一篇文章我们提到，用轮询的方法消除按键抖动、检测输入，有可能会消耗过多的系统资源并导致卡机，也有可能会错过检测。这就是为什么我们需要使用中断了。
 
 ## 基本原理
-
 
 ### 轮询与中断
 
@@ -85,14 +83,13 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 
 void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 {
-   
+
 }
 
 /* USER CODE END 1 */
 ```
 
-
-## 参考与致谢 
+## 参考与致谢
 
 - [进阶篇 II [Interrupt]](https://alchemicronin.github.io/posts/ff6aca34/)
 - [STM32CubeMX 实战教程（三）—— 外部中断（中断及 HAL_Delay 函数避坑）](https://blog.csdn.net/weixin_43892323/article/details/104383560?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)
@@ -104,5 +101,3 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 > 文章作者：**Power Lin**  
 > 原文地址：<https://wiki-power.com>  
 > 版权声明：文章采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh) 协议，转载请注明出处。
-
-
