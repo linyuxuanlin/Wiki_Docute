@@ -6,7 +6,7 @@ new Docute({
   nav: [
     {
       title: 'Home',
-      link: '/Home'
+      link: '/'
     },
     /*
     {
