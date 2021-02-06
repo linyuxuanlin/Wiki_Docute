@@ -1,4 +1,8 @@
-/* globals Docute */
+
+
+
+
+/* globals Docute*/
 
 new Docute({
   target: '#docute',
@@ -8,40 +12,30 @@ new Docute({
       title: 'Home',
       link: '/'
     },
-    /*
+    
     {
       title: 'About',
       link: '/about'
     }
-    */
+    
   ],
   sidebar: [
-    /*
+   /*
     {
       title: 'Guide',
       links: [
-        {
-          title: 'Introduction',
-          link: '/introduction'
-        },
-        {
-          title: 'Installation',
-          link: '/installation'
-        },
+       
         {
           title: 'HAL 库开发笔记（三）- 外部中断',
           link: '/HAL库开发笔记（三）-外部中断'
         }
       ]
-    }
-    */
+    }*/
+    {title: 'Home', link: '/',},
    {
     title: '电路设计',
     links: [
-      {
-        title: 'Home',
-        link: '/'
-      },
+      
          {title: '1', link: '/AirForce-充满灵性的电机驱动模块',},
          {title: '1', link: '/如何设计一款单片机的最小系统',},
          {title: '1', link: '/SwiftCtrl-蓝牙手柄',},
