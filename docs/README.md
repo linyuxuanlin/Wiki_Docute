@@ -1,9 +1,5 @@
----
-id: Home
-title: Power's Wiki
-sidebar_label: Home
-slug: /
----
+# Home
+
 
 > 一只不会讲故事的硬件猿，算不上一个很酷的产品汪~
 
