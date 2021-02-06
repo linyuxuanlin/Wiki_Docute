@@ -16,17 +16,6 @@ new Docute({
     
   ],
   sidebar: [
-   /*
-    {
-      title: 'Guide',
-      links: [
-       
-        {
-          title: 'HAL 库开发笔记（三）- 外部中断',
-          link: '/HAL库开发笔记（三）-外部中断'
-        }
-      ]
-    }*/
     {title: 'Home', link: '/',},
     {
       title: '电路设计',
