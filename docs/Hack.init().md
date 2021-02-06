@@ -1,4 +1,4 @@
-title: Hack.init( ) 黑客马拉松
+# Hack.init( ) 黑客马拉松
 
 —— Wight · 基于云平台的去线缆化照明系统。
 

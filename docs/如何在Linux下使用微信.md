@@ -1,4 +1,4 @@
-title: 如何在 Linux 下使用微信
+# 如何在 Linux 下使用微信
 
 ![](https://wiki-media-1253965369.cos.ap-guangzhou.myqcloud.com/img/20200311141406.png)
 

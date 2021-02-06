@@ -1,4 +1,4 @@
-title: Python 学习笔记
+# Python 学习笔记
 
 ## 环境配置
 

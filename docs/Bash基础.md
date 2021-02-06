@@ -1,4 +1,4 @@
-title: Bash 基础
+# Bash 基础
 
 —— 本篇整理记录 Bash 学习要点。
 

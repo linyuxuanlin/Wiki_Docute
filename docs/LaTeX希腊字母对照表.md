@@ -1,4 +1,4 @@
-title: LaTeX 希腊字母对照表
+# LaTeX 希腊字母对照表
 
 ![](https://wiki-media-1253965369.cos.ap-guangzhou.myqcloud.com/img/20201220230543.png)
 

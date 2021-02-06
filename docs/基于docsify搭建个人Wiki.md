@@ -1,4 +1,4 @@
-title: 基于 docsify 搭建个人 Wiki
+# 基于 docsify 搭建个人 Wiki
 
 
 ## 背景

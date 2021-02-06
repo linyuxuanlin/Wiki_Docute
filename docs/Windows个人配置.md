@@ -1,4 +1,4 @@
-title: Windows 初始化与软件推荐
+# Windows 初始化与软件推荐
 
 ![](https://wiki-media-1253965369.cos.ap-guangzhou.myqcloud.com/img/20210117142759.jpg)
 

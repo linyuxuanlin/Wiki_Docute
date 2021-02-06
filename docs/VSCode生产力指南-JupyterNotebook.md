@@ -1,4 +1,4 @@
-title: VS Code 生产力指南 - Jupyter Notebook
+# VS Code 生产力指南 - Jupyter Notebook
 
 用 VS Code 打造高效率的生产力工具。
 

@@ -1,4 +1,4 @@
-title: Vue.js 小技巧
+# Vue.js 小技巧
 
 ## 去除 url 中的 `#`
 

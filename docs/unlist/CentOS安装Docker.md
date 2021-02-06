@@ -1,4 +1,4 @@
-title: CentOS 安装 Docker
+# CentOS 安装 Docker
 
 ## 卸载可能存在的旧版本
 

@@ -1,4 +1,4 @@
-title: 用 Graphviz 绘制关系图
+# 用 Graphviz 绘制关系图
 
 一种用代码绘制关系图的方式。
 

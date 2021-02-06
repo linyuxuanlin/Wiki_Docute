@@ -1,4 +1,4 @@
-title: 如何在 iPad 上运行 VS Code
+# 如何在 iPad 上运行 VS Code
 
 注：本教程基于 code-server v3.8.0, CentOS 8.2.
 

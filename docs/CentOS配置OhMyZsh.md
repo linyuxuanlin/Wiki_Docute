@@ -1,4 +1,4 @@
-title: CentOS 配置 Oh My Zsh
+# CentOS 配置 Oh My Zsh
 
 ## 查看当前 Shell
 

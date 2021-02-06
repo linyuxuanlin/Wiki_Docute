@@ -1,4 +1,4 @@
-title: PlatformIO 搭配 CubeMX 食用
+# PlatformIO 搭配 CubeMX 食用
 
 ## 背景
 

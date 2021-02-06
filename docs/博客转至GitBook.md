@@ -1,4 +1,4 @@
-title: 博客转至 GitBook
+# 博客转至 GitBook
 
 我一直用 Blog 的形式记录自己一些想法，后来逐渐发现，Blog 越来越不能满足我的需求了，正巧发现了 GitBook 这一 Wiki 类平台（本是用来写书的），于是便义无反顾地抛弃了 Blog :\)
 
