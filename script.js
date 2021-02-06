@@ -38,7 +38,10 @@ new Docute({
    {
     title: '电路设计',
     links: [
-
+      {
+        title: 'Home',
+        link: '/'
+      },
          {title: '1', link: '/AirForce-充满灵性的电机驱动模块',},
          {title: '1', link: '/如何设计一款单片机的最小系统',},
          {title: '1', link: '/SwiftCtrl-蓝牙手柄',},
