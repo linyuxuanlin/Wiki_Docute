@@ -6,14 +6,17 @@ new Docute({
   nav: [
     {
       title: 'Home',
-      link: '/'
+      link: '/Home'
     },
+    /*
     {
       title: 'About',
       link: '/about'
     }
+    */
   ],
   sidebar: [
+    /*
     {
       title: 'Guide',
       links: [
@@ -31,5 +34,8 @@ new Docute({
         }
       ]
     }
+    */
+
+
   ]
 })
