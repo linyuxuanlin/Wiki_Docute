@@ -9360,7 +9360,7 @@
                     }
                 ], !0, null, "4f620c69", null).exports),
                 Mn = h({
-                    name: "ExternalLinkIcon"
+                    name: "ExternalLinkIcon1"
                 }, (function (e, t) {
                     var n = t._c;
                     return n("svg", t._g(t._b({
